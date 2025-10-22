@@ -12,9 +12,7 @@ p1.addEventListener('mouseover', (e) => {
     console.log("Bonjour");
 });
 
-let antoine = document.getElementById("antoine");
- p1.addEventListener('mouseover')
-let antoine = document.getElementById("antoine");
+
 
 let evan = document.getElementById("evan");
 
