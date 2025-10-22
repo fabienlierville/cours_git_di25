@@ -1,57 +1,23 @@
+let evan = document.getElementById("evan");
+
+evan.addEventListener("mouseover", (e)=>{
+    console.log("Bonjour");
+});
+
+let p2 = document.getElementById("p2");
+
+p2.addEventListener("mouseover", (e)=>{
+    console.log("Antoine");
+});
+
 let p16 = document.getElementById("p16");
 
-p16.addEventListener('mouseover', (e) => {
-    console.log("Bonjour";)
+p16.addEventListener("mouseover", (e)=>{
+    console.log("Eliott");
 });
-let evan = document.getElementById("evan");
 
-evan.addEventListener('mouseover', (e) => {
-    console.log("Bonjour");
-});
-let p17 = document.getElementById("p17") ;
-
-p17.addEventListener('mouseover', (e) => {
-    console.log("Bonjour") ;
-} ) ;
 let p17 = document.getElementById("p17");
- p17.addEventListener('mouseover')
-let p1 = document.getElementById("p1");
-p1.addEventListener('mouseover', (e) => {
-    console.log("Bonjour");
+
+p17.addEventListener("mouseover", (e)=>{
+    console.log("Marceau");
 });
-
-
- p1.addEventListener('mouseover')
-
- let antoine = document.getElementById("antoine");
-
-evan.addEventListener('mouseover'), (e) => {
-    console.log("Bonjour");}let p16 = document.getElementById("p1");
-
-p16.addEventListener('mouseover', (e) => {
-    console.log("Bonjour";)
-});
-let evan = document.getElementById("evan");
-
-evan.addEventListener('mouseover', (e) => {
-    console.log("Bonjour");
-});
-let p2 = document.getElementById("antoine");
-
-p2.addEventListener('mouseover', (e) => {
-    console.log("Bonjour");
-});
-let p17 = document.getElementById("p17") ;
-
-p17.addEventListener('mouseover', (e) => {
-    console.log("Bonjour") ;
-} ) ;
-let p17 = document.getElementById("p17");
- p17.addEventListener('mouseover')
-let p1 = document.getElementById("p1");
- p1.addEventListener('mouseover')
-
- let antoine = document.getElementById("antoine");
-
-evan.addEventListener('mouseover'), (e) => {
-    console.log("Bonjour");}
