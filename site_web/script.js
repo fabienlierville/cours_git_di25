@@ -1,7 +1,7 @@
 let p16 = document.getElementById("p1");
 
 p16.addEventListener('mouseover', (e) => {
-    console.log("Bonjour";)
+    console.log("Bonjour");
 });
 let evan = document.getElementById("evan");
 
