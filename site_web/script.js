@@ -4,10 +4,6 @@ p16.addEventListener('mouseover', (e) => {
     console.log("Bonjour");
 });
 
-evan.addEventListener('mouseover', (e) => {
-    console.log("Bonjour");
-});
-
 let p17 = document.getElementById("p1");
 p17.addEventListener('mouseover')
 
