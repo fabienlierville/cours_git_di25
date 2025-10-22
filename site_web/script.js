@@ -19,6 +19,8 @@ let evan = document.getElementById("evan");
 evan.addEventListener('mouseover', (e) => {
     console.log("Bonjour");
 });
+let p2 = document.getElementById("p2");
+
 antoine.addEventListener('mouseover', (e) => {
     console.log("Bonjour");
 });
